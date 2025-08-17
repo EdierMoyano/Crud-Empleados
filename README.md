@@ -98,11 +98,10 @@ private $password = '';             // Contraseña de MySQL
 
 ## Posibles Mejoras Futuras
 - Paginación para listas grandes
-- Búsqueda y filtros
+- Búsqueda con  filtros
 - Exportación a Excel/PDF
 - Sistema de autenticación
 - Logs de auditoría
-- Validación con JavaScript
 
 ## Soporte
 Para reportar problemas o sugerencias, contactar al desarrollador.
